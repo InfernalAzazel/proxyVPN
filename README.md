@@ -68,7 +68,7 @@ to cancel): 输入你的域名
 
 [gost](https://github.com/ginuerzh/gost) 是一个非常强的代理服务，它可以设置成 HTTPS 代理，然后把你的服务伪装成一个Web服务器，**我感觉这比其它的流量伪装更好，也更隐蔽。这也是这里强烈推荐的一个方式**。
 
-### 1.创建 gost.sh Docker 自动搭部署本
+### 1.创建 gost.sh Docker 自动搭建部署本
 ```shell
 $ vi gost.sh
 ```
